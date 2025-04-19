@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-miranda-dev/" target="_blank">LinkedIn</a> •
-  <a href="https://https://github.com/tsmdev-ux/">GitHub</a> •
+  <a href="https://github.com/tsmdev-ux/">GitHub</a> •
   <a href="mailto:tiagosm-dev@gmail.com">E-mail</a>
 </p>
 
@@ -38,8 +38,6 @@ Atualmente, desenvolvo sistemas com foco em:
 
 ### 🧪 Projetos em destaque
 
-- ✅ **[Sistema de Controle de Instrutores - Autoescola Ideal](https://github.com/tiagomiranda/sistema-autoescola)**  
-  Sistema completo em Django com leitura de placa, tickets automáticos e integração com câmeras.
 
 - ✅ **[Checklist Ticket Farmácia](https://github.com/tiagomiranda/checklist-farmacia)**  
   App em Python + Tkinter que gera checklist em PDF com visual moderno.
