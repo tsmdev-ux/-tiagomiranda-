@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tiagomiranda/" target="_blank">LinkedIn</a> •
+  <a href="www.linkedin.com/in/tiago-miranda-dev" target="_blank">LinkedIn</a> •
   <a href="https://github.com/tiagomiranda">GitHub</a> •
-  <a href="mailto:seuemail@gmail.com">E-mail</a>
+  <a href="mailto:tiagosm-dev@gmail.com">E-mail</a>
 </p>
 
 ---
