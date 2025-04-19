@@ -35,7 +35,6 @@ Atualmente, desenvolvo sistemas com foco em:
 
 ### 🧪 Projetos em destaque
 
-
 - ✅ **[Checklist Ticket Farmácia](https://github.com/tiagomiranda/checklist-farmacia)**  
   App em Python + Tkinter que gera checklist em PDF com visual moderno.
 
